@@ -1,0 +1,42 @@
+{
+    "name": "Pedro Frasson",
+    "job": "Estudante Eng. de Software",
+    "github": "pafrasson",
+
+    "playlists": {
+        "jogos": [
+            {
+                "title": "Spider-Man Symbiotic Finisher and Combat gameplay",
+                "url": "https://www.youtube.com/watch?v=QOFjUpV-gCc&ab_channel=PedroTgk",
+                "thumb": "https://img.youtube.com/vi/QOFjUpV-gCc/hqdefault.jpg"
+            },
+            {
+                "title":"Spider-Man 2099 Into The Spider-verse 2 suit MOD",
+                "url": "https://www.youtube.com/watch?v=RBRZ1ClFicQ&ab_channel=PedroTgk",
+                "thumb": "https://img.youtube.com/vi/RBRZ1ClFicQ/hqdefault.jpg"
+            },
+            {
+                "title": "Symbiote TASM meets Black Cat! (Spider-Man Remastered PC)",
+                "url": "https://www.youtube.com/watch?v=29XpeZXdujU&ab_channel=PedroTgk",
+                "thumb": "https://img.youtube.com/vi/29XpeZXdujU/hqdefault.jpg"
+            }
+        ],
+        "música": [
+            {
+                "title": "Black Eyed Peas - I Gotta Feeling",
+                "url": "https://www.youtube.com/watch?v=uSD4vsh1zDA&ab_channel=BlackEyedPeasVEVO",
+                "thumb": "https://img.youtube.com/vi/CwdrtwZiQ9E/hqdefault.jpg"
+            },
+            {
+                "title": "Avenged Sevenfold - Mad Hatter",
+                "url": "https://www.youtube.com/watch?v=6nH00mUOq9U&ab_channel=AvengedSevenfold",
+                "thumb": "https://img.youtube.com/vi/6nH00mUOq9U/hqdefault.jpg"
+            },
+            {
+                "title": "Alors on Phonk",
+                "url": "https://www.youtube.com/watch?v=3m9_9pcFcHc&ab_channel=APOLLO",
+                "thumb": "https://img.youtube.com/vi/3m9_9pcFcHc/hqdefault.jpg"
+            }
+        ]
+    }
+}
